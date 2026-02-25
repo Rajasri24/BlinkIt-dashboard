@@ -10,7 +10,7 @@ The key technologies used to build the dashboard.
 - DAX: Utilized to create calculated measures and KPIs for performance evaluation.
 - Data Modelling: Implemented to establish relationships between multiple data tables for efficient analysis.
 
- ##Features / Highlights
+ ## Features / Highlights
 
 - Interactive dashboard for analyzing retail sales performance across multiple outlet types and locations.
 - Dynamic filtering using slicers for outlet size, location, and item type.
@@ -32,4 +32,7 @@ To analyze retail sales performance across various outlet types, sizes, and loca
 - Which outlet type generates the highest sales revenue?
 - What are the performance differences between various outlet categories?
 
-  
+  ![BLINKIT STORES](https://github.com/user-attachments/assets/dd0362be-3d40-4c80-aabd-58fc3ab12937)
+
+## Final Conclusion
+The analysis indicates that sales performance varies significantly across outlet sizes, types, and locations, with certain item categories and fat content contributing more to overall revenue. The interactive dashboard enables effective monitoring of key performance indicators, helping businesses identify high-performing outlets and product segments to support data-driven decision-making and improve overall sales strategy.
